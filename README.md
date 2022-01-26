@@ -1,7 +1,7 @@
 
 # 🛡iRLords - Destructive Link
 
-💣 Using this tool, you can create a malicious link and get information about the person who visits the link
+Using this tool, you can create a malicious link and get information about the person who visits the link
 
 
 ## Other About
