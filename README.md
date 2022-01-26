@@ -1,5 +1,5 @@
 # Coded By :
-TELEGRAM : @Sltan_Python
+TELEGRAM : @Soltan_python
 
 
 
