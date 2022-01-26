@@ -6,7 +6,7 @@
 
 ## Other About
 
- - [🔮 We Telegram Channel](https://t.me/irlords)
+ - [We Telegram Channel](https://t.me/irlords)
 
 
 ## 🧑🏻‍💻 Authors
